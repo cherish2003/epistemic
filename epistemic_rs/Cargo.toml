@@ -1,0 +1,9 @@
+[package]
+name = "epistemic_rs"
+version = "0.1.0"
+edition = "2021"
+description = "Epistemic types for Rust: values that carry provenance, confidence, validity and conflict information, with policy enforcement"
+
+[lib]
+name = "epistemic_rs"
+path = "src/lib.rs"
